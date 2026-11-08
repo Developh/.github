@@ -3,7 +3,7 @@
 A design and development studio in Lisbon. We build websites, online stores, web apps and brands for restaurants,
 clinics, tourism and product companies, and we publish the tools we use to work with AI agents.
 
-**Work:** [developh.co/projects](https://developh.co/projects) · **Contact:** hello@developh.co
+**Work:** [developh.co/projects](https://www.developh.co/projects) · **Contact:** hello@developh.co
 
 ## Open source
 
@@ -16,4 +16,4 @@ clinics, tourism and product companies, and we publish the tools we use to work 
 ## For agents
 
 - MCP server: `https://www.developh.co/mcp` (Streamable HTTP, no sign-in)
-- Docs, API and llms.txt: [developh.co/developers](https://developh.co/developers)
+- Docs, API and llms.txt: [developh.co/developers](https://www.developh.co/developers)
